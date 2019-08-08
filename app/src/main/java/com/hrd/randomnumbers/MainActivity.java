@@ -206,15 +206,6 @@ Lo use por las siguientes razones:
  - Simple de impelmentar.
  - Es 40% mas rapidos que el Ordenación de burbuja y mas 8% mas rapido que el ordenamiento por inserción.
  - Lo he usado en anteriores proyecto resultando muy efectivo.
- ================================= In English ===================================================
-Selection Sort (Selection Sort in English) is an ordering algorithm that requires OR operations to sort a list of n items.
-Its operating principle is:
- - Find the minimum element between a position i and the end of the list.
- - Exchange the minimum with the element of position i.
-Use it for the following reasons:
- - Simple to impelmentar.
- - It is 40% faster than bubble sorting and 8% faster than insertion sorting.
- - I have used it in previous projects proving very effective.
  =============================================================================================*/
     private AlertDialog DialogSelectOrder() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
